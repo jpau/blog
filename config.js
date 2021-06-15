@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'James Peterson',
     photo: '/photo.jpg',
-    bio: 'I work with teams to improve their data value chain.'
+    bio: 'I work with teams to improve their data value chain.',
     contacts: {
       email: '',
       facebook: '',
