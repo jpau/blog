@@ -30,4 +30,5 @@ fields:
   name: socialImage
   label: socialImage
 pages:
+- content/posts/headless-bi-is-getting-big-fast.md
 - content/posts/i-spoke-at-sydney-dbt-meetup-february-edition.md
