@@ -6,6 +6,7 @@ draft: false
 slug: dbt-sydney-february-2021
 category: Talks
 tags:
+- teams
 - analytics engineering
 - talks
 - dbt
