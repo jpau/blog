@@ -1,5 +1,5 @@
 ---
-title: I spoke at Sydney dbt meetup - February Edition
+title: I spoke at Sydney dbt meetup (February 2021)
 date: 2021-02-17T13:00:00Z
 template: post
 draft: false
@@ -14,12 +14,12 @@ description: 'Yesterday I spoke at the February edition of the Sydney dbt meetup
 socialImage: ''
 
 ---
-Yesterday I spoke at the February edition of the Sydney dbt meetup, on principles for starting your company's first data capability. 
+Yesterday I spoke at the February 2021 edition of the Sydney dbt meetup, on principles for starting your company's first data capability.
 
 In particular, I spoke about:
 
-* The mindset you need to spread, 
-* What to do first/second/third, and 
+* The mindset you need to spread,
+* What to do first/second/third, and
 * How to prioritise opportunities.
 
-[It's available on YouTube](https://youtu.be/ZltzrTGD5Ms?t=223 "YouTube video"). I start at around 3:45, and am followed by Pip Sidaway's great talk on SQLFluff. 
+[It's available on YouTube](https://youtu.be/ZltzrTGD5Ms?t=223 "YouTube video"). I start at around 3:45, and am followed by Pip Sidaway's great talk on SQLFluff.
