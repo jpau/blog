@@ -2,7 +2,7 @@
 title: SQL notebooks will become the norm
 date: 
 template: ''
-draft: false
+draft: true
 slug: ''
 category: ''
 tags: []
