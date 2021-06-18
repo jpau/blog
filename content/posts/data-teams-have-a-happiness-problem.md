@@ -1,5 +1,5 @@
 ---
-title: Data teams have a happiness problem
+title: Data has a happiness problem
 date: 
 template: ''
 draft: false
