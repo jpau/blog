@@ -10,8 +10,8 @@ tags:
 - analytics engineering
 - talks
 - dbt
-description: 'Yesterday I spoke at the February edition of the Sydney dbt meetup,
-  on principles for starting your company''s first data capability ... '
+description: Yesterday I spoke at the February edition of the Sydney dbt meetup, on
+  principles for starting your company's first data capability.
 socialImage: ''
 
 ---
