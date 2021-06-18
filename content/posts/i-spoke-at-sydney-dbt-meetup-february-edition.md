@@ -1,5 +1,5 @@
 ---
-title: I spoke at Sydney dbt meetup (February 2021)
+title: I gave a talk at the Sydney dbt meetup (February 2021)
 date: 2021-02-17T13:00:00Z
 template: post
 draft: false
