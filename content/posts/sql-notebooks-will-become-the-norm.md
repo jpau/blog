@@ -12,9 +12,14 @@ socialImage: ''
 ---
 Today's data analysis workflows differ depending on one surprising difference: the language used to interact with data.
 
-Analyses using procedural languages (Python, R, Julia, ...) resemble lab reports with baked-in code ("notebooks"). SQL analyses instead take an "Etch A Sketch" workflow: write a single query, snapshot it, then erase and start over.
+It's bizarre that analysis using:
 
-SQL notebooks will become the norm for analytics. 
+* Procedural languages (Python, R, Julia, ...) resemble lab reports with baked-in code ("notebooks"), whereas 
+* SQL analyses instead take an "Etch A Sketch" workflow: write a single query, snapshot it, then erase and start over.
+
+I argue that SQL notebooks will become the norm for analytics.
+
+<image for sql notebooks today>
 
 Notebooks will become the norm for SQL analysis as three things happen:
 
